@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-<img src="terminal.svg" alt="Terminal About Me" />
+<img src="https://raw.githubusercontent.com/ahmad-bensalah/ahmad-bensalah/main/terminal.svg" alt="Terminal About Me" />
 
 ---
 
