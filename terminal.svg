@@ -77,11 +77,11 @@
 </text>
 <text x="22" y="252" class="base o" opacity="0">
   <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.3393;0.3437;0.9956;1" dur="11.435s" repeatCount="indefinite"/>
-  GitOps & Continuous Delivery
+  GitOps &amp; Continuous Delivery
 </text>
 <text x="22" y="276" class="base o" opacity="0">
   <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.3699;0.3743;0.9956;1" dur="11.435s" repeatCount="indefinite"/>
-  MLOps & Model Deployment
+  MLOps &amp; Model Deployment
 </text>
 <text x="22" y="300" class="base o" opacity="0">
   <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.4005;0.4049;0.9956;1" dur="11.435s" repeatCount="indefinite"/>
