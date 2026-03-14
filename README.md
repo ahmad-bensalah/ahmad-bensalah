@@ -14,26 +14,7 @@
 
 ## 👨‍💻 About Me
 
-<!-- Line 1: whoami command -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1500&pause=8000&color=3FB950&width=600&height=30&lines=ahmad%40devops%3A~%24+whoami" alt="cmd1" />
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1000&pause=8000&color=79C0FF&delay=1800&width=600&height=30&lines=Ahmad+Bensalah" alt="out1" />
-
-<!-- Line 2: cat role.txt -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1500&pause=8000&color=3FB950&delay=3200&width=600&height=30&lines=ahmad%40devops%3A~%24+cat+role.txt" alt="cmd2" />
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1200&pause=8000&color=A5D6FF&delay=5000&width=600&height=30&lines=DevOps+%2F+MLOps+Engineering+Student" alt="out2" />
-
-<!-- Line 3: cat focus.txt -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1500&pause=8000&color=3FB950&delay=6500&width=600&height=30&lines=ahmad%40devops%3A~%24+cat+focus.txt" alt="cmd3" />
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=8000&color=A5D6FF&delay=8200&width=600&height=30&lines=Cloud-Native+Infrastructure+%7C+GitOps+%26+Continuous+Delivery" alt="out3a" />
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2000&pause=8000&color=A5D6FF&delay=11000&width=600&height=30&lines=MLOps+%26+Model+Deployment+%7C+Self-Hosted+Homelab" alt="out3b" />
-
-<!-- Line 4: cat learning.txt -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1500&pause=8000&color=3FB950&delay=13300&width=600&height=30&lines=ahmad%40devops%3A~%24+cat+learning.txt" alt="cmd4" />
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=8000&color=A5D6FF&delay=15100&width=600&height=30&lines=Platform+Engineering+%7C+ML+Pipeline+Automation+%7C+eBPF" alt="out4" />
-
-<!-- Line 5: echo $MOTTO -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1500&pause=8000&color=3FB950&delay=17900&width=600&height=30&lines=ahmad%40devops%3A~%24+echo+%24MOTTO" alt="cmd5" />
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2000&pause=8000&color=FFD700&delay=19700&width=600&height=30&lines=If+you+did+it+twice%2C+automate+it." alt="out5" />
+<img src="terminal.svg" alt="Terminal About Me" />
 
 ---
 
