@@ -79,10 +79,10 @@
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/ahmad-bensalah" target="_blank">
+  <a href="www.linkedin.com/in/ahmad-bensalah" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:ahmad.bensalah@gmail.com">
+  <a href="mailto:ahmad.bensalah.contact@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/ahmad-bensalah" target="_blank">
