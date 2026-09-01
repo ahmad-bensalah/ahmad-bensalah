@@ -87,20 +87,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmad-bensalah&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
----
-
-## 🏗️ DevOps / MLOps Philosophy
-
-```
-Plan → Code → Build → Test → Release → Deploy → Operate → Monitor → 🔁
-  └─── Train → Evaluate → Version → Serve → Observe → Retrain ──────┘
-```
-
-> *"Infrastructure should be boring — reliable, repeatable, and invisible.  
-> The excitement lives in what it enables, not in fighting it."*
-
----
-
 ## 📫 Connect With Me
 
 <p align="left">
