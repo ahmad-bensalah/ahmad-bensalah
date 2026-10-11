@@ -17,21 +17,15 @@
 
 ---
 
-## 👋 About me
+## About me
 
-Engineering student in **Data Engineering** at the **Faculty of Sciences of Sfax, Tunisia**. I sit at the intersection of **platform engineering, SRE and MLOps**: building the paved roads that let teams ship software and ML models safely, repeatably and fast.
+I'm an engineering student in Data Engineering at the Faculty of Sciences of Sfax, Tunisia. I build cloud-native platforms, automate infrastructure, and look for reliable ways to run AI workloads.
 
-```yaml
-now:
-  role: "DevOps / Platform / MLOps engineer in training"
-  focus: ["GitOps", "Kubernetes platforms", "AI-assisted operations"]
-  exploring: ["Agentic AI for SRE", "MCP", "Policy-as-code"]
-  looking_for: "6-month PFE internship, February 2027"
-```
+I'm looking for a **6-month PFE internship starting February 2027**.
 
 ---
 
-## 🧰 Tech arsenal
+## Tech arsenal
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,terraform,ansible,python,bash,git,aws,azure,gcp,prometheus,grafana,githubactions,jenkins,pytorch,tensorflow,fastapi,django&perline=10" alt="Technology icons"/>
@@ -41,20 +35,20 @@ now:
 
 | | |
 |:--|:--|
-| ☁️ **Cloud & virtualization** | AWS · Azure · GCP · Proxmox |
-| 📦 **Containers & platforms** | Docker · Kubernetes · Helm · Kubeflow · KServe |
-| 🔁 **Infra & GitOps** | Terraform · Ansible · Argo CD · GitHub Actions · Jenkins |
-| 🔭 **Observability & security** | Prometheus · Grafana · OpenTelemetry · Trivy · Vault · Kyverno |
-| 🧪 **MLOps & ML** | MLflow · scikit-learn · PyTorch · TensorFlow |
-| 🤖 **AI engineering** | LangChain · LangGraph · CrewAI · n8n · RAG · MCP |
-| 🌐 **Networking** | Istio · DNS · VPC · VPN/IPsec · Load balancing |
-| 💻 **Development** | Python · Bash · SQL · FastAPI · Django |
+| **Cloud & virtualization** | AWS · Azure · GCP · Proxmox |
+| **Containers & platforms** | Docker · Kubernetes · Helm · Kubeflow · KServe |
+| **Infra & GitOps** | Terraform · Ansible · Argo CD · GitHub Actions · Jenkins |
+| **Observability & security** | Prometheus · Grafana · OpenTelemetry · Trivy · Vault · Kyverno |
+| **MLOps & ML** | MLflow · scikit-learn · PyTorch · TensorFlow |
+| **AI engineering** | LangChain · LangGraph · CrewAI · n8n · RAG · MCP |
+| **Networking** | Istio · DNS · VPC · VPN/IPsec · Load balancing |
+| **Development** | Python · Bash · SQL · FastAPI · Django |
 
 </div>
 
 ---
 
-## 📊 GitHub activity
+## GitHub activity
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=ahmad-bensalah&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
@@ -67,13 +61,13 @@ now:
 
 ---
 
-## 🎓 Education
+## Education
 
 **Engineering Degree in Data Engineering**: Faculty of Sciences of Sfax, Tunisia · *Expected 2027*
 
 ---
 
-<h3 align="center">🤝 Let's build something reliable together</h3>
+<h3 align="center">Let's build something reliable together</h3>
 
 <p align="center">
   I'm looking for a <b>6-month PFE internship starting February 2027</b> in DevOps, Platform Engineering or MLOps.
