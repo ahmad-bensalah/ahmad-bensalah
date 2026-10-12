@@ -17,7 +17,7 @@
 
 ---
 
-## 👋 About me
+### 👋 About me
 
 I'm a **Data Engineering student focused on DevOps, MLOps, and AI Engineering**, passionate about building reliable, secure, and scalable systems.
 
@@ -29,7 +29,7 @@ I'm looking for a **6-month PFE internship starting February 2027**.
 
 ---
 
-## ⚡ Tech Stack
+### ⚡ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,terraform,ansible,python,bash,git,aws,azure,gcp,prometheus,grafana,githubactions,jenkins,pytorch,tensorflow,fastapi,django&perline=10" alt="Technology icons"/>
