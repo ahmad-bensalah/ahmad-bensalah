@@ -16,7 +16,7 @@
 </p>
 
 
-
+<br>
 ### 👋 About me
 
 ---
@@ -30,6 +30,7 @@ I enjoy bridging infrastructure, software engineering, and artificial intelligen
 I'm looking for a **6-month PFE internship starting February 2027**.
 
 
+<br>
 
 ### ⚡ Tech Stack
 
@@ -55,6 +56,7 @@ I'm looking for a **6-month PFE internship starting February 2027**.
 </div>
 
 
+<br>
 
 ### 📊 GitHub activity
 
@@ -69,6 +71,7 @@ I'm looking for a **6-month PFE internship starting February 2027**.
   <img src="https://streak-stats.demolab.com?user=ahmad-bensalah&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 </p>
 
+<br>
 
 ### 🎓 Education
 
@@ -77,7 +80,7 @@ I'm looking for a **6-month PFE internship starting February 2027**.
 **Engineering Degree in Data Engineering**: Faculty of Sciences of Sfax, Tunisia · *Expected 2027*
 
 
-
+<br>
 <h3 align="center">Let's build something reliable together</h3>
 
 <p align="center">
