@@ -15,11 +15,12 @@
   <img src="https://img.shields.io/badge/PFE%202027-Available-22c55e?style=for-the-badge" alt="Available for PFE 2027"/>
 </p>
 
+---
 
 <br>
 
 ## 👋 About me
----
+
 
 I'm a **Data Engineering student focused on DevOps, MLOps, and AI Engineering**, passionate about building reliable, secure, and scalable systems.
 
@@ -33,7 +34,7 @@ I'm looking for a **6-month PFE internship starting February 2027**.
 <br>
 
 ## ⚡ Tech Stack
----
+
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,terraform,ansible,python,bash,git,aws,azure,gcp,prometheus,grafana,githubactions,jenkins,pytorch,tensorflow,fastapi,django&perline=10" alt="Technology icons"/>
@@ -58,7 +59,7 @@ I'm looking for a **6-month PFE internship starting February 2027**.
 <br>
 
 ## 📊 GitHub activity
----
+
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=ahmad-bensalah&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
@@ -72,7 +73,7 @@ I'm looking for a **6-month PFE internship starting February 2027**.
 <br>
 
 ## 🎓 Education
----
+
 
 **Engineering Degree in Data Engineering**: Faculty of Sciences of Sfax, Tunisia · *Expected 2027*
 
