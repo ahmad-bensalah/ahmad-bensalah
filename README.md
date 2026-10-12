@@ -15,8 +15,6 @@
   <img src="https://img.shields.io/badge/PFE%202027-Available-22c55e?style=for-the-badge" alt="Available for PFE 2027"/>
 </p>
 
----
-
 <br>
 
 ## 👋 About me
