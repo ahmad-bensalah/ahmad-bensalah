@@ -19,8 +19,6 @@
 <br>
 
 ## 👋 About me
-
-
 ---
 
 I'm a **Data Engineering student focused on DevOps, MLOps, and AI Engineering**, passionate about building reliable, secure, and scalable systems.
@@ -35,7 +33,6 @@ I'm looking for a **6-month PFE internship starting February 2027**.
 <br>
 
 ## ⚡ Tech Stack
-
 ---
 
 <p align="center">
@@ -61,7 +58,6 @@ I'm looking for a **6-month PFE internship starting February 2027**.
 <br>
 
 ## 📊 GitHub activity
-
 ---
 
 <p align="center">
@@ -76,7 +72,6 @@ I'm looking for a **6-month PFE internship starting February 2027**.
 <br>
 
 ## 🎓 Education
-
 ---
 
 **Engineering Degree in Data Engineering**: Faculty of Sciences of Sfax, Tunisia · *Expected 2027*
