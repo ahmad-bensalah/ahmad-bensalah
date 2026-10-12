@@ -18,7 +18,8 @@
 
 <br>
 
-# 👋 About me
+## 👋 About me
+
 
 ---
 
@@ -33,7 +34,7 @@ I'm looking for a **6-month PFE internship starting February 2027**.
 
 <br>
 
-# ⚡ Tech Stack
+## ⚡ Tech Stack
 
 ---
 
@@ -59,7 +60,7 @@ I'm looking for a **6-month PFE internship starting February 2027**.
 
 <br>
 
-# 📊 GitHub activity
+## 📊 GitHub activity
 
 ---
 
@@ -74,7 +75,7 @@ I'm looking for a **6-month PFE internship starting February 2027**.
 
 <br>
 
-# 🎓 Education
+## 🎓 Education
 
 ---
 
