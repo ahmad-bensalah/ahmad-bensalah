@@ -19,6 +19,8 @@
 
 ### 👋 About me
 
+---
+
 I'm a **Data Engineering student focused on DevOps, MLOps, and AI Engineering**, passionate about building reliable, secure, and scalable systems.
 
 Through my internships and engineering projects, I've gained hands-on experience with **Kubernetes, Infrastructure as Code (Terraform, Ansible), GitOps, CI/CD, and MLOps platforms**, while developing AI agents and intelligent automation workflows.
