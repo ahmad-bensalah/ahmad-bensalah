@@ -20,9 +20,10 @@
 ## 👋 About me
 
 
-I'm a **Data Engineering student focused on DevOps, MLOps, and AI Engineering**, passionate about building reliable, secure, and scalable systems.
+I'm a **DevOps-focused Data Engineering student** who builds the infrastructure that data and AI systems run on.
 
-Through my internships and engineering projects, I've gained hands-on experience with **Kubernetes, Infrastructure as Code (Terraform, Ansible), GitOps, CI/CD, and MLOps platforms**, while developing AI agents and intelligent automation workflows.
+
+Through my internships and engineering projects, I've gained hands-on experience with **Kubernetes, Data pipelines (DataOps), Infrastructure as Code, GitOps, CI/CD, and MLOps platforms**, while developing AI agents and intelligent automation workflows.
 
 I enjoy bridging infrastructure, software engineering, and artificial intelligence to transform complex requirements into **automated, reproducible, and maintainable engineering solutions**.
 
@@ -40,16 +41,14 @@ I'm looking for a **6-month PFE internship starting February 2027**.
 
 <div align="center">
 
-| | |
+| Category | Technologies |
 |:--|:--|
-| **Cloud & virtualization** | AWS · Azure · GCP · Proxmox |
-| **Containers & platforms** | Docker · Kubernetes · Helm · Kubeflow · KServe |
-| **Infra & GitOps** | Terraform · Ansible · Argo CD · GitHub Actions · Jenkins |
-| **Observability & security** | Prometheus · Grafana · OpenTelemetry · Trivy · Vault · Kyverno |
-| **MLOps & ML** | MLflow · scikit-learn · PyTorch · TensorFlow |
-| **AI engineering** | LangChain · LangGraph · CrewAI · n8n · RAG · MCP |
-| **Networking** | Istio · DNS · VPC · VPN/IPsec · Load balancing |
-| **Development** | Python · Bash · SQL · FastAPI · Django |
+| **Cloud & Orchestration** | Kubernetes · Docker · Apache CloudStack · Proxmox · Longhorn · AWS (EKS) · Azure (AKS) · GCP (GKE) |
+| **IaC & CI/CD** | Terraform · OpenTofu · Ansible · Helm · ArgoCD · GitHub Actions · Jenkins · GitLab CI |
+| **MLOps & Agentic AI** | Kubeflow · KServe · MLflow · LangChain · LangGraph · n8n · CrewAI · MCP |
+| **DataOps & Data Engineering** | Airflow · Kafka · Iceberg · Trino · Superset · Hive · Nifi · MinIO |
+| **Observability, Security & Networking** | Prometheus · Grafana · OpenTelemetry · Trivy · SonarQube · Vault · Kyverno · Istio |
+| **Languages & Frameworks** | Python · Bash · SQL · Java · FastAPI · Django · Spring Boot · Angular |
 
 </div>
 
