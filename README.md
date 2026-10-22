@@ -1,18 +1,18 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0ea5e9&height=210&section=header&text=Ahmad%20Bensalah&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=DevOps%20%C2%B7%20Platform%20Engineering%20%C2%B7%20MLOps&descSize=18&descAlignY=58" alt="Ahmad Bensalah banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0ea5e9&height=210&section=header&text=Ahmad%20Bensalah&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=DevOps-Focused%20Data%20Engineering%20Student&descSize=18&descAlignY=58" alt="Ahmad Bensalah banner"/>
 </p>
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=720&lines=I+build+cloud-native+platforms;I+automate+infrastructure+with+GitOps;I+make+AI+workloads+reliable+in+production;Open+to+a+6-month+PFE+%E2%80%94+February+2027" alt="Typing animation"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=720&lines=I+build+the+infrastructure+that+data+and+AI+run+on;Linux+%C2%B7+Kubernetes+%C2%B7+Cloud-native+automation;DevOps+%7C+DataOps+%7C+MLOps;Seeking+6-month+PFE+%E2%80%94+February+2027+%F0%9F%87%AB%F0%9F%87%B7" alt="Typing animation"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmad-bensalah"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:ahmad.bensalah.contact@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <img src="https://img.shields.io/badge/PFE%202027-Available-22c55e?style=for-the-badge" alt="Available for PFE 2027"/>
+  <img src="https://img.shields.io/badge/PFE%202027-Available%20🇫🇷-22c55e?style=for-the-badge" alt="Available for PFE 2027"/>
 </p>
 
 <br>
