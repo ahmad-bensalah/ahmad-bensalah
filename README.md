@@ -36,8 +36,10 @@ I'm looking for a **6-month PFE internship starting February 2027**.
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,terraform,ansible,python,bash,git,aws,azure,gcp,prometheus,grafana,githubactions,jenkins,pytorch,tensorflow,fastapi,kafka&perline=10" alt="Technology icons"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="48" height="48" alt="Airflow" style="background:#242938;border-radius:12px;padding:6px"/>
+  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,terraform,ansible,python,bash,git,aws,azure" height="48" alt="Tech row 1"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=gcp,prometheus,grafana,githubactions,jenkins,pytorch,tensorflow,fastapi,kafka" height="48" alt="Tech row 2"/>
+  <img src="assets/airflow.svg" height="48" alt="Airflow"/>
 </p>
 
 <div align="center">
