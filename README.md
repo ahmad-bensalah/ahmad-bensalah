@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=720&lines=I+build+the+infrastructure+that+data+and+AI+run+on;Linux+%C2%B7+Kubernetes+%C2%B7+Cloud-native+automation;DevOps+%7C+DataOps+%7C+MLOps;Seeking+6-month+PFE+%E2%80%94+February+2027+%F0%9F%87%AB%F0%9F%87%B7" alt="Typing animation"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=720&lines=I+build+the+infrastructure+that+data+and+AI+run+on;Linux+%C2%B7+Kubernetes+%C2%B7+Cloud-native+automation;DevOps+%7C+DataOps+%7C+MLOps;Seeking+6-month+PFE+%E2%80%94+February+2027" alt="Typing animation"/>
   </a>
 </p>
 
