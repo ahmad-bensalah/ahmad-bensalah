@@ -12,8 +12,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmad-bensalah"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:ahmad.bensalah.contact@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <img src="https://img.shields.io/badge/PFE%202027-Available%20🇫🇷-22c55e?style=for-the-badge" alt="Available for PFE 2027"/>
-</p>
+ <img src="https://img.shields.io/badge/PFE%202027-Available%20🇫🇷%20🇨🇭%20🇳🇱%20🇩🇪-22c55e?style=for-the-badge" alt="Available for PFE 2027"/>
 
 <br>
 
