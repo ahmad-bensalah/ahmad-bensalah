@@ -71,16 +71,16 @@ I'm looking for a **6-month PFE internship starting February 2027**.
 
 **Engineering Degree in Data Engineering**: Faculty of Sciences of Sfax, Tunisia · *Expected 2027*
 <p>
-  I'm looking for a <b>6-month PFE internship starting February 2027</b> in Data Engineering, DataOps, Data Platform, DevOps or MLOps.
+I'm looking for a <b>6-month PFE internship starting February 2027</b> in Data Engineering, DataOps, Data Platform, DevOps or MLOps.
 </p>
 
-<br>
 <br>
 
 
 <h3 align="center">Let's build something reliable together</h3>
 
 
+<br>
 
 <p align="center">
   <a href="https://github.com/ahmad-bensalah"><img src="https://img.shields.io/badge/GitHub-ahmad--bensalah-24292f?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
