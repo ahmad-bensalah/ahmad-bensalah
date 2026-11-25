@@ -1,12 +1,11 @@
 <!-- Banner -->
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0ea5e9&height=210&section=header&text=Ahmad%20Bensalah&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=Data%20Engineering%20%7C%20DataOps%20%7C%20DevOps%20%7C%20MLOps&descSize=18&descAlignY=58" alt="Ahmad Bensalah banner"/>
 </p>
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=780&lines=I+build+scalable+data+platforms+and+pipelines;Data+Engineering+%C2%B7+DataOps+%C2%B7+Data+Infrastructure;DevOps+%7C+MLOps+%7C+Cloud-native+automation;Seeking+6-month+PFE+%E2%80%94+February+2027" alt="Typing animation"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=720&lines=I+build+scalable+data+platforms+and+pipelines;Data+Engineering+%C2%B7+DataOps+%C2%B7+Data+Infrastructure;DevOps+%7C+MLOps+%7C+Cloud-native+automation;Seeking+6-month+PFE+%E2%80%94+February+2027" alt="Typing animation"/>
   </a>
 </p>
 
@@ -18,72 +17,44 @@
 
 <br>
 
-👋 About me
+## 👋 About me
 
-I'm a Data Engineering student passionate about building scalable data platforms, reliable pipelines, and modern data infrastructure.
+I'm a **Data Engineering student** passionate about building scalable data platforms, reliable pipelines, and modern data infrastructure.
 
-My main interests lie in Data Engineering and DataOps, with a strong focus on automating, orchestrating, monitoring, and maintaining data workflows across cloud-native environments.
+My main interests lie in **Data Engineering and DataOps**, with a focus on designing, automating, orchestrating, and monitoring data pipelines and distributed data systems.
 
-Through my internships and engineering projects, I've gained hands-on experience with data pipelines, distributed systems, workflow orchestration, Kubernetes, Infrastructure as Code, CI/CD, and cloud platforms.
+Through my internships and engineering projects, I've gained hands-on experience with **data pipelines, workflow orchestration, distributed systems, Kubernetes, Infrastructure as Code, GitOps, and CI/CD**.
 
-I'm also exploring MLOps and AI infrastructure, working on deploying, serving, and managing machine learning models and AI workloads using modern tools and platforms.
+I'm also exploring **DevOps and MLOps**, particularly cloud-native infrastructure, machine learning platforms, and the deployment and management of AI workloads.
 
-I enjoy connecting data engineering, infrastructure automation, and machine learning to build reproducible, scalable, and production-ready solutions.
+I enjoy connecting data engineering, infrastructure automation, and machine learning to transform complex requirements into **automated, scalable, and maintainable engineering solutions**.
 
-I'm looking for a 6-month PFE internship starting February 2027, particularly in Data Engineering, DataOps, Data Platform Engineering, DevOps, or MLOps.
+I'm looking for a **6-month PFE internship starting February 2027**.
 
 <br>
 
-⚡ Tech Stack
+## ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,bash,sql,fastapi,django,git" height="48" alt="Programming and development"/>
+  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,terraform,ansible,python,bash,git,aws,azure" height="48" alt="Tech row 1"/>
   <br/>
-  <img src="https://skillicons.dev/icons?i=kafka,docker,kubernetes,terraform,ansible,linux,aws,azure,gcp" height="48" alt="Data and infrastructure"/>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=prometheus,grafana,githubactions,jenkins,pytorch,tensorflow" height="48" alt="Observability and ML"/>
+  <img src="https://skillicons.dev/icons?i=gcp,prometheus,grafana,githubactions,jenkins,pytorch,tensorflow,fastapi,kafka" height="48" alt="Tech row 2"/>
   <img src="assets/airflow.svg" height="48" alt="Airflow"/>
 </p>
 
-<div align="center">
-
-Category
-
-Technologies
-
-Data Engineering & Data Platforms
-
-Apache Kafka · Apache Spark · Airflow · Iceberg · Trino · Hive · NiFi · MinIO · Superset
-
-DataOps & Pipeline Orchestration
-
-Apache Airflow · Kafka · dbt · Data Quality · Data Observability · CI/CD · Workflow Automation
-
-Cloud & Data Infrastructure
-
-AWS · Azure · GCP · Kubernetes · Docker · Apache CloudStack · Proxmox · Longhorn
-
-DevOps & Infrastructure as Code
-
-Terraform · OpenTofu · Ansible · Helm · ArgoCD · GitHub Actions · Jenkins · GitLab CI
-
-MLOps & AI Engineering
-
-MLflow · Kubeflow · KServe · PyTorch · TensorFlow · LangChain · LangGraph · CrewAI · MCP · n8n
-
-Observability, Security & Networking
-
-Prometheus · Grafana · OpenTelemetry · Trivy · SonarQube · Vault · Kyverno · Istio
-
-Programming & Frameworks
-
-Python · SQL · Java · Bash · FastAPI · Django · Spring Boot · Angular
-
-</div>
+| Category | Technologies |
+|:--|:--|
+| **Data Engineering & Data Platforms** | Apache Kafka · Apache Spark · Apache Iceberg · Trino · Hive · Apache NiFi · MinIO · Superset |
+| **DataOps & Pipeline Orchestration** | Apache Airflow · Data Pipelines · Workflow Orchestration · Data Integration · CI/CD · Workflow Automation |
+| **Cloud & Data Infrastructure** | AWS · Azure · GCP · Kubernetes · Docker · Apache CloudStack · Proxmox · Longhorn |
+| **DevOps & Infrastructure as Code** | Terraform · OpenTofu · Ansible · Helm · ArgoCD · GitHub Actions · Jenkins · GitLab CI |
+| **MLOps & Agentic AI** | Kubeflow · KServe · MLflow · LangChain · LangGraph · n8n · CrewAI · MCP |
+| **Observability, Security & Networking** | Prometheus · Grafana · OpenTelemetry · Trivy · SonarQube · Vault · Kyverno · Istio |
+| **Languages & Frameworks** | Python · SQL · Bash · Java · FastAPI · Django · Spring Boot · Angular |
 
 <br>
 
-📊 GitHub activity
+## 📊 GitHub activity
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=ahmad-bensalah&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
@@ -96,10 +67,9 @@ Python · SQL · Java · Bash · FastAPI · Django · Spring Boot · Angular
 
 <br>
 
-🎓 Education
+## 🎓 Education
 
-Engineering Degree in Data Engineering
-Faculty of Sciences of Sfax, Tunisia · Expected 2027
+**Engineering Degree in Data Engineering**: Faculty of Sciences of Sfax, Tunisia · *Expected 2027*
 
 <br>
 
