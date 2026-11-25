@@ -70,11 +70,13 @@ I'm looking for a **6-month PFE internship starting February 2027**.
 ## 🎓 Education
 
 **Engineering Degree in Data Engineering**: Faculty of Sciences of Sfax, Tunisia · *Expected 2027*
-<p align="center">
-  I'm looking for a <b>6-month PFE internship starting February 2027</b> in Data Engineering, DataOps, Data Platform Engineering, DevOps or MLOps.
+<p>
+  I'm looking for a <b>6-month PFE internship starting February 2027</b> in Data Engineering, DataOps, Data Platform, DevOps or MLOps.
 </p>
 
 <br>
+<br>
+
 
 <h3 align="center">Let's build something reliable together</h3>
 
